@@ -1,0 +1,32 @@
+дек. 03, 2022 1:35:17 PM Task1_SortSliyanie.AddClassMerge addLogging
+INFO: Первоначальный массив: 
+дек. 03, 2022 1:35:17 PM Task1_SortSliyanie.AddClassMerge addLogging
+INFO: [7,6,3,2,3,10,15,8]
+дек. 03, 2022 1:35:17 PM Task1_SortSliyanie.AddClassMerge sortArray
+INFO: Произведена 1-ая итерация
+дек. 03, 2022 1:35:17 PM Task1_SortSliyanie.AddClassMerge sortArray
+INFO: Произведена 2-ая итерация
+дек. 03, 2022 1:35:17 PM Task1_SortSliyanie.AddClassMerge sortArray
+INFO: Произведена 3-ая итерация
+дек. 03, 2022 1:35:17 PM Task1_SortSliyanie.AddClassMerge sortArray
+INFO: Произведена 4-ая итерация
+дек. 03, 2022 1:35:17 PM Task1_SortSliyanie.AddClassMerge addLogging
+INFO: Сортированный массив: 
+дек. 03, 2022 1:35:17 PM Task1_SortSliyanie.AddClassMerge addLogging
+INFO: [2,3,3,6,7,8,10,15]
+дек. 03, 2022 1:59:05 PM Task1_SortSliyanie.AddClassMerge addLogging
+INFO: Первоначальный массив: 
+дек. 03, 2022 1:59:05 PM Task1_SortSliyanie.AddClassMerge addLogging
+INFO: [7,6,3,2,3,10,15,8]
+дек. 03, 2022 1:59:05 PM Task1_SortSliyanie.AddClassMerge sortArray
+INFO: Произведена 1-ая итерация
+дек. 03, 2022 1:59:05 PM Task1_SortSliyanie.AddClassMerge sortArray
+INFO: Произведена 2-ая итерация
+дек. 03, 2022 1:59:05 PM Task1_SortSliyanie.AddClassMerge sortArray
+INFO: Произведена 3-ая итерация
+дек. 03, 2022 1:59:05 PM Task1_SortSliyanie.AddClassMerge sortArray
+INFO: Произведена 4-ая итерация
+дек. 03, 2022 1:59:05 PM Task1_SortSliyanie.AddClassMerge addLogging
+INFO: Сортированный массив: 
+дек. 03, 2022 1:59:05 PM Task1_SortSliyanie.AddClassMerge addLogging
+INFO: [2,3,3,6,7,8,10,15]
